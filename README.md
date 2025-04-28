@@ -178,11 +178,11 @@ The article ["Ace Your Front-End Developer Interviews"](https://grokkingtechinte
 This approach promotes consistency, scalability, and reusability in UI development.
 
 **Resources:**
+
 - [Atomic Design by Brad Frost](https://atomicdesign.bradfrost.com/)
 - [Atomic Design Pattern in React (Medium)](https://rjroopal.medium.com/atomic-design-pattern-structuring-your-react-application-970dd57520f8)
 - [Design Systems in React – Atomic Design (Part 1)](https://www.buszewski.com/writings/2024-09-23-design-systems-in-react-atomic-design-part-1/)
 - [![The guide to Atomic Design - Justinmind](https://tse3.mm.bing.net/th?id=OIP.X8_pP1zgl5FPCsByZVhOnQHaD8&pid=Api)](https://www.justinmind.com/blog/atomic-design/)
-
 
 ### Benefits of Atomic Design
 
@@ -234,6 +234,7 @@ This approach promotes consistency, scalability, and reusability in UI developme
 - [TS Docs - Everyday Types](https://www.typescriptlang.org/docs/handbook/2/everyday-types.html)
 
 **Tips:**
+
 - Convert small JS projects into TypeScript projects.
 - Use strict mode (`strict: true`) in your `tsconfig.json`.
 - Gradually adopt TypeScript in existing React or Node projects.
@@ -263,6 +264,7 @@ This approach promotes consistency, scalability, and reusability in UI developme
   - Configuration-heavy, especially for beginners.
 
 **Resources:**
+
 - [Webpack Official Documentation](https://webpack.js.org/)
 - [SurviveJS - Webpack](https://survivejs.com/webpack/)
 
@@ -278,6 +280,7 @@ This approach promotes consistency, scalability, and reusability in UI developme
   - Might need customization for very large enterprise projects.
 
 **Resources:**
+
 - [Vite Official Documentation](https://vitejs.dev/)
 - [Vite Guide for Beginners](https://vitejs.dev/guide/)
 
@@ -361,6 +364,7 @@ This approach promotes consistency, scalability, and reusability in UI developme
 - [Jenkins Getting Started](https://www.jenkins.io/doc/)
 
 **Tips:**
+
 - Start with GitHub Actions for simple workflows.
 - Practice by setting up auto-deployments for a small React or Node.js app.
 - Learn to write YAML configuration files cleanly and document your pipeline setup.
@@ -395,6 +399,7 @@ This approach promotes consistency, scalability, and reusability in UI developme
   - Slower for very large apps unless configured carefully.
 
 **Resources:**
+
 - [Jest Official Documentation](https://jestjs.io/docs/getting-started)
 
 #### Cypress
@@ -408,6 +413,7 @@ This approach promotes consistency, scalability, and reusability in UI developme
   - Some limitations in cross-origin testing.
 
 **Resources:**
+
 - [Cypress Official Documentation](https://docs.cypress.io/)
 
 #### Playwright
@@ -420,6 +426,7 @@ This approach promotes consistency, scalability, and reusability in UI developme
   - Slightly steeper learning curve than Cypress.
 
 **Resources:**
+
 - [Playwright Official Documentation](https://playwright.dev/)
 
 #### Mocha/Chai
@@ -432,6 +439,7 @@ This approach promotes consistency, scalability, and reusability in UI developme
   - Requires assembling your own test setup (test runner + assertion lib + mocks).
 
 **Resources:**
+
 - [Mocha Documentation](https://mochajs.org/)
 - [Chai Documentation](https://www.chaijs.com/)
 
@@ -494,6 +502,7 @@ This approach promotes consistency, scalability, and reusability in UI developme
   - Desktop app can feel heavy for quick checks.
 
 **Resources:**
+
 - [Postman Learning Center](https://learning.postman.com/)
 
 #### cURL
@@ -506,6 +515,7 @@ This approach promotes consistency, scalability, and reusability in UI developme
   - Requires comfort with CLI and syntax.
 
 **Resources:**
+
 - [cURL Documentation](https://curl.se/docs/)
 
 ### How to Approach API Development and Testing
@@ -742,22 +752,26 @@ Both are critical for securing web applications.
 ## 🛣️ Next Steps and Suggested Learning Roadmap
 
 ### Phase 1: Core Foundations
+
 - Master JavaScript fundamentals (event loop, closures, promises).
 - Deep dive into React fundamentals and component patterns.
 - Build and deploy 1-2 small React projects (CRUD app, dashboard).
 
 ### Phase 2: Expand Horizons
+
 - Learn TypeScript and migrate a small project.
 - Study API design: REST, GraphQL basics.
 - Practice API testing with Postman and cURL.
 
 ### Phase 3: Advanced Skills
+
 - Build larger projects integrating authentication (OAuth2, JWT).
 - Implement CI/CD pipelines (GitHub Actions, Netlify/Vercel auto-deploy).
 - Apply Atomic Design principles and organize projects cleanly.
 - Learn basic Docker containerization for local development.
 
 ### Phase 4: Final Polish
+
 - Practice mock interviews for technical and behavioral skills.
 - Monitor a deployed project using tools like Sentry or LogRocket.
 - Polish GitHub repositories with README docs and live demos.
@@ -779,6 +793,7 @@ Both are critical for securing web applications.
 - **Collaborate Actively**: Treat interviews as two-way conversations rather than just answering questions.
 
 **Resources:**
+
 - [Interviewing.io](https://interviewing.io/): Practice technical interviews anonymously.
 - [The Tech Interview Handbook](https://www.techinterviewhandbook.org/): Tips for behavioral and technical interviews.
 - [FrontendLead](https://frontendlead.com/)

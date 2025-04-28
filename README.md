@@ -114,6 +114,7 @@ The article ["Ace Your Front-End Developer Interviews"](https://grokkingtechinte
 - [Next.js Documentation](https://nextjs.org/learn/basics/create-nextjs-app)
 - [React Patterns](https://reactpatterns.com/): Comprehensive guide to component patterns.
 - [React Router Documentation](https://reactrouter.com/en/main)
+- [Redux](https://redux.js.org/)
 
 **Tips:**
 

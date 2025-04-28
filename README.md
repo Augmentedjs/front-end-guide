@@ -643,11 +643,23 @@ Both are critical for securing web applications.
 - **Simple Cloud Hosting Solutions**
   - **Vercel**: Great for static sites and serverless functions.
   - **Netlify**: Easy CI/CD and deployment pipelines.
+  - **GCP: Google Cloud**: The Google Cloud Platform
   - **AWS S3 + CloudFront**: Serve static front-end assets with low latency.
   - **Resources:**
     - [Vercel Docs](https://vercel.com/docs)
     - [Netlify Docs](https://docs.netlify.com/)
+    - [![PPT - Introduction to Google Cloud Platform (GCP) | Google Cloud ...](https://tse2.mm.bing.net/th?id=OIP.f0DH1WONfIF5c5zh0HZ_kQHaEK&pid=Api)](https://www.slideserve.com/EdurekaIN/introduction-to-google-cloud-platform-gcp-google-cloud-tutorial-for-beginners-edureka-powerpoint-ppt-presentation)
     - [AWS S3 Static Hosting Guide](https://docs.aws.amazon.com/AmazonS3/latest/userguide/WebsiteHosting.html)
+
+### ☁️ Google Cloud Platform Learning Resources
+
+- **Google Cloud Skills Boost**: This is Google's official learning platform offering a wide range of hands-on labs, quests, and courses tailored for various roles, including developers and DevOps engineers. It's an excellent starting point for practical experience.  ([Google Cloud Courses and Training](https://cloud.google.com/learn/training?utm_source=chatgpt.com)) ([Getting Started with Google Cloud Learning Path](https://www.cloudskillsboost.google/paths/8?utm_source=chatgpt.com))
+
+- **Getting Started with Google Cloud Learning Path**: A curated path designed for beginners, covering the fundamentals of Google Cloud through a series of structured activities and labs.  ([Getting Started with Google Cloud Learning Path](https://www.cloudskillsboost.google/paths/8?utm_source=chatgpt.com)) ([Getting Started with Google Cloud Learning Path](https://www.cloudskillsboost.google/paths/8?utm_source=chatgpt.com))
+
+- **Google Cloud Fundamentals: Core Infrastructure (Coursera)**: This course provides a comprehensive overview of Google Cloud's core services and infrastructure, ideal for those new to the platform.  ([Google Cloud Fundamentals: Core Infrastructure - Coursera](https://www.coursera.org/learn/gcp-fundamentals?utm_source=chatgpt.com)) ([Google Cloud Fundamentals: Core Infrastructure](https://www.cloudskillsboost.google/course_templates/60?utm_source=chatgpt.com))
+
+- **Google Cloud Learning Courses and Certifications**: Explore role-based learning paths, skill badges, and certifications to build and validate your cloud skills.  ([Google Cloud Learning Courses and Certifications](https://cloud.google.com/learn?utm_source=chatgpt.com)) ([Google Cloud Learning Courses and Certifications](https://cloud.google.com/learn?utm_source=chatgpt.com))
 
 ### Good Practices
 

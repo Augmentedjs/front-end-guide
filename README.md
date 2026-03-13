@@ -51,6 +51,7 @@ The article ["Ace Your Front-End Developer Interviews"](https://grokkingtechinte
 - [TC39 Proposals](https://tc39.es/proposals/): Track new features and proposals in JavaScript.
 - [JavaScript Info - Modern JavaScript Tutorial](https://javascript.info/)
 - [MDN Web Docs - JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+- [FrontendAtlas](https://frontendatlas.com/coding)
 
 ## 🚀 3. Prioritize UI Performance Optimization
 
